@@ -4,4 +4,3 @@ VideoAnomlyDetection_FE/static/temp/
 *.mp4
 *.mp3
 *.avi
-model_weights.h5
